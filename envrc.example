@@ -1,0 +1,2 @@
+export BEARER_TOKEN=<YOUR-BEARER-TOKEN>
+export CONTRACT_NAME=txtimgnft.<YOUR-ACCOUNT>.testnet
